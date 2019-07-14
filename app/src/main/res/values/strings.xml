@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Phase 1 Challenge-Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="activityAHeadingTv">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="activity_a_title">ALC 4 Phase 1</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="my_profile_title">My Profile</string>
+    <string name="my_profile_content_desc">My Profile Image</string>
+    <string name="my_profile_name">Profile Name</string>
+    <string name="myProfileTrack">Track:</string>
+    <string name="myProfileCountryName">Country:</string>
+    <string name="myProfileEmailAddress">Email:</string>
+    <string name="myProfilePhoneNumber">Phone Number:</string>
+    <string name="myProfileSlackUsername">Slack Username:</string>
+    <!--My Profile Preferences Details-->
+    <string name="trackName">Android</string>
+    <string name="emailAddress">daniel.simphiwe@gmail.com</string>
+    <string name="profileName">Simphiwe Daniel Msimango</string>
+    <string name="countryName">South Africa</string>
+    <string name="phoneNumber">27723625843</string>
+    <string name="slackUsername">@Simphiwe Daniel Msimango</string>
+    <string name="title_activity_about_alc">AboutAlc</string>
+    <!---->
+    <!--About ALC Url-->
+    <string name="aboutAlcWebPageUrl">https://andela.com/alc/</string>
+
+</resources>
